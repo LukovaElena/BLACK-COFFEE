@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df8ad174-ee51-42c6-ab83-4917b857873c" name="Default Changelist" comment="" />
+    <list default="true" id="df8ad174-ee51-42c6-ab83-4917b857873c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeBlackBird.html" beforeDir="false" afterPath="$PROJECT_DIR$/file/CoffeeBlackBird.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/file/new.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,21 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="-1467">
               <caret line="31" column="85" selection-start-line="31" selection-end-line="31" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="136">
-                <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+                <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,7 +40,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new.html">
+        <entry file="file://$PROJECT_DIR$/file/new.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1054">
               <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
@@ -53,7 +58,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoffeeBlackBird.html">
+        <entry file="file://$PROJECT_DIR$/file/CoffeeBlackBird.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -75,6 +80,9 @@
       <find>london</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,8 +90,8 @@
         <option value="$PROJECT_DIR$/new.html" />
         <option value="$PROJECT_DIR$/COFFEE BLACK BIRD.html" />
         <option value="$PROJECT_DIR$/CoffeeBlackBird.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -93,6 +101,7 @@
     <option name="width" value="1255" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -153,16 +162,15 @@
       <workItem from="1555487387226" duration="598000" />
       <workItem from="1555506497952" duration="4013000" />
       <workItem from="1555584571602" duration="1946000" />
-      <workItem from="1556536385857" duration="317000" />
+      <workItem from="1556536385857" duration="969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72721000" />
+    <option name="totallyTimeSpent" value="73373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08856577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -200,7 +208,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new.html">
+    <entry file="file://$PROJECT_DIR$/file/new.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
@@ -214,17 +222,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoffeeBlackBird.html">
+    <entry file="file://$PROJECT_DIR$/file/CoffeeBlackBird.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="31" column="85" selection-start-line="31" selection-end-line="31" selection-end-column="85" />
         </state>
       </provider>
     </entry>
@@ -232,9 +233,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="136">
-            <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="27" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1467">
+          <caret line="31" column="85" selection-start-line="31" selection-end-line="31" selection-end-column="85" />
         </state>
       </provider>
     </entry>
